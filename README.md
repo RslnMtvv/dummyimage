@@ -1,4 +1,10 @@
-# Dummy Image PHP Script
-The source code behind [dummyimage.com](http://dummyimage.com) of [Hacker News fame](https://news.ycombinator.com/item?id=1077013).
+# Get PHP version
+```php --version```
 
-[http://www.russellheimlich.com/blog/tag/dummyimage.com](http://www.russellheimlich.com/blog/tag/dummyimage.com)
+# install GD for your PHP
+```sudo apt install php7.4-gd```
+```sudo apt install php8.1-gd```
+```sudo apt install php11.2-gd```
+
+# restart Apache
+  ```sudo service apache2 restart```
